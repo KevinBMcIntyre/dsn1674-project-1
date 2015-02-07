@@ -57,7 +57,15 @@ figure{
 	border-radius: .5em;
 	border: 1px solid #b2a215;
 	text-align: center;
-	font-style: italic;
 	font-size: .75em;
 	line-height:1.5em;
+}
+.italic {
+	font-style: italic;
+}
+dt{
+	font-weight: bold;
+}
+dd{
+	margin: 0;
 }
