@@ -4,6 +4,8 @@ h1, h2, h3 {
 }
 h2{
 	border-top: 3px solid #ffe524;
+	line-height: 3em;
+	margin-bottom: 0;
 }
 
 nav li {
@@ -68,4 +70,12 @@ dt{
 }
 dd{
 	margin: 0;
+}
+footer {
+		background-color: #ffe524;
+text-align: center;
+padding: 0.5em;
+}
+a {
+		color: #cc3865;
 }
