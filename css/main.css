@@ -23,18 +23,13 @@ nav li:hover{
 }
 header{
 	background-color: #ffe524;
-text-align: center;}
-body{
+text-align: center;
+}
+body, header h1, dd {
 	margin: 0;
 }
-header h1{
-	margin: 0;
-}
-nav{
+nav, main{
 	padding: .5em;
-}
-main{
-	margin: .5em;
 }
 blockquote{
 	font-family: georgia, serif;
