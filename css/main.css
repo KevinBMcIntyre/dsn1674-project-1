@@ -35,6 +35,7 @@ blockquote{
 	font-family: georgia, serif;
 	font-style:italic;
 	color: #b2a215;
+	text-align: center;
 }
 blockquote cite{
 	text-align: center;
@@ -62,9 +63,6 @@ figure{
 }
 dt{
 	font-weight: bold;
-}
-dd{
-	margin: 0;
 }
 footer {
 		background-color: #ffe524;
