@@ -7,12 +7,16 @@ h2{
 	line-height: 3em;
 	margin-bottom: 0;
 }
-
+nav ol{
+	padding: 0;
+	width: 100%;
+	margin-bottom: 0;
+}
 nav li {
 	padding: .5em;
 	border-radius: .2em;
 	background-color: #b2a215;
-	display: inline;
+	display: inline-block;
 }
 nav a {
 	text-decoration: none;
@@ -28,8 +32,11 @@ text-align: center;
 body, header h1, dd {
 	margin: 0;
 }
-nav, main{
+main{
 	padding: .5em;
+}
+nav{
+	padding-bottom: .5em;
 }
 blockquote{
 	font-family: georgia, serif;
