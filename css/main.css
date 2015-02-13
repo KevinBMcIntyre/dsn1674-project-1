@@ -52,6 +52,8 @@ img{
 figure{
 	background-color: #fffce0;
 	padding: .75em;
+	margin-right: 0;
+	margin-left: 0;
 	border-radius: .5em;
 	border: 1px solid #b2a215;
 	text-align: center;
